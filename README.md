@@ -1,2 +1,5 @@
 # hello-world
-First try
+
+Hi!
+
+This is my first try to make a commit!
